@@ -1,0 +1,22 @@
+{
+    "name": "pashkinz92/yii2-slack",
+    "description": "Slack API for Yii2 apps",
+    "type": "library",
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": ">=2.0.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pavel Pozhetnov",
+            "email": "pasha92@ukr.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Pashkinz\\Slack\\": ""
+        }
+    }
+}
